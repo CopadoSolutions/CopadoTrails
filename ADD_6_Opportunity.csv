@@ -1,4 +1,4 @@
-Name,Amount,Close Date,Stage,Opportunity Ext ID,Account Ext ID
+Name,Amount,CloseDate,StageName,Oppty_Ext_Id__c,Account.Account_Ext_Id__c
 maecenas ut massa quis augue,3912,2020-03-02T00:00:00.00Z,Value Proposition,033530462705006199,319977825325514491
 ultrices posuere cubilia,8280,2021-02-08T00:00:00.00Z,Value Proposition,900990560661863506,866892442728318761
 curae mauris viverra,9011,2020-11-07T00:00:00.00Z,Qualification,612693803304894925,084705175952234975
