@@ -1,2 +1,2 @@
-Name,IsActive,Price_Book_Ext_Id__c
-ADD Pricebook,TRUE,366683710326024541
+Name,Price_Book_Ext_Id__c
+ADD Pricebook,366683710326024541
