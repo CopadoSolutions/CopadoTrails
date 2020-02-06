@@ -1,4 +1,4 @@
-Name,website,Phone,Acct Ext Id,Billing Street,Billing City,Billing State,Billing Country,Billing Zip
+Name,Website,Phone,Account_Ext_Id__c,BillingStreet,BillingCity,BillingState,BillingCountry,BillingPostalCod
 Kayveo,https://www.Kayveo.com,651-847-4343,319977825325514491,38449 Mayer Terrace,Saint Paul,Minnesota,United States,55166
 Thoughtsphere,https://www.Thoughtsphere.com,815-189-0256,866892442728318761,37379 Comanche Crossing,Joliet,Illinois,United States,60435
 Trupe,https://www.Trupe.com,518-254-4866,084705175952234975,39040 Haas Center,Albany,New York,United States,12247
