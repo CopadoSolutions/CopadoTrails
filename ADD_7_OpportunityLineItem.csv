@@ -1,4 +1,4 @@
-Oppty Prod Ext Id,Opportunity Ext Id,Pricebook Entry Ext Id,Product Ext Id,Quantity,UnitPrice,ListPrice
+Oppty_Prod_Ext_Id__c,Opportunity.Oppty_Ext_Id__c,PricebookEntry.Price_Book_Entry_Ext_Id__c,Product2.Product_Ext_Id__c,Quantity,UnitPrice,ListPrice
 OP-0000001,033530462705006199,CPB-001,609242363766393892,1,15,15
 OP-0000002,900990560661863506,CPB-002,886193443434865946,1,11,11
 OP-0000003,612693803304894925,CPB-003,162250655879296471,1,11.5,11.5
