@@ -1,4 +1,4 @@
-Price Book Entry Ext Id,IsActive,Name,Pricebook2.Price_Book_Ext_Id__c,Product2.Product_Ext_Id__c,UnitPrice
+Price_Book_Entry_Ext_Id__c,IsActive,Name,Pricebook2.Price_Book_Ext_Id__c,Product2.Product_Ext_Id__c,UnitPrice
 SPB-001,TRUE,Container - Clear 32 Oz,999999999999999999,609242363766393892,15
 SPB-002,TRUE,Straws - Cocktale,999999999999999999,886193443434865946,11
 SPB-003,TRUE,Bar Soap,999999999999999999,162250655879296471,11.5
