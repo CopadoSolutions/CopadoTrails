@@ -1,4 +1,4 @@
-Product Name,Product Family,Product Ext Id,Active
+Name,Family,Product_Ext_Id__c,IsActive
 Container - Clear 32 Oz,Household,609242363766393892,TRUE
 Straws - Cocktale,Household,886193443434865946,TRUE
 Bar Soap,Household,162250655879296471,TRUE
