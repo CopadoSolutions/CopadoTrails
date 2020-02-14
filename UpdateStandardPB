@@ -1,0 +1,8 @@
+//file name in the repo should be in this format: ADD_X_Object_API_Name.csv
+        //update standard pricebook external key & isactive checkbox
+        System.debug('Starting update of standard price book with external id and activating pricebook...');
+        Pricebook2 standardPricebook = [SELECT Id, IsStandard, IsActive, Price_Book_Ext_Id__c FROM Pricebook2 WHERE IsStandard = TRUE LIMIT 1];
+        standardPricebook.IsActive = true;
+        standardPricebook.Price_Book_Ext_Id__c = '999999999999999999';
+        update standardPricebook;
+       System.debug('Standard pricebook update complete with id...' + standardPricebook.Id);
