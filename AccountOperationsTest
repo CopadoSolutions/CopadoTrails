@@ -4,6 +4,6 @@ private class AccountOperationsTest {
         Account acc = new Account(Name = 'My Test Account',Description='Default description');
         insert acc;
         acc = AccountOperations.setDefaultDescription(acc);
-        System.assertEquals('Default description', acc.Description);
+        System.assertEquals('Default description', acc.Description, 'Descriptions do not match');
     }
 }
